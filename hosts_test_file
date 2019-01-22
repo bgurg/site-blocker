@@ -8,3 +8,10 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+127.0.0.1   www.facebook.com
+127.0.0.1   facebook.com
+127.0.0.1   finance.yahoo.com
+127.0.0.1   www.yahoo.com
+127.0.0.1   yahoo.com
+127.0.0.1   news.google.com
+127.0.0.1   finance.google.com
